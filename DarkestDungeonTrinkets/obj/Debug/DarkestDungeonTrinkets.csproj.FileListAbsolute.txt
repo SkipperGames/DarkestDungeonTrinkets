@@ -1,0 +1,13 @@
+C:\Users\Loc\documents\visual studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\bin\Debug\DarkestDungeonTrinkets.exe
+C:\Users\Loc\documents\visual studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\bin\Debug\DarkestDungeonTrinkets.exe.config
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeon.BuffSearch.resources
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeon.SaveData.resources
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeon.TrinketSearch.resources
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeonTrinkets.Properties.Resources.resources
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeonTrinkets.csproj.GenerateResource.Cache
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeonTrinkets.exe
+C:\Users\Loc\Documents\Visual Studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeonTrinkets.pdb
+C:\Users\Loc\documents\visual studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\bin\Debug\DarkestDungeonTrinkets.pdb
+C:\Users\Loc\documents\visual studio 2015\Projects\DarkestDungeonTrinkets\DarkestDungeonTrinkets\obj\Debug\DarkestDungeonTrinkets.csprojResolveAssemblyReference.cache
